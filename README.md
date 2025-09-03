@@ -1,12 +1,16 @@
 # cryptocurrency_convert_discordbot
 A discord bot that convert cryptocurency to vnd and usd using live exchange rate from binance api and exchangerate-api.com
 
-#Currency support
+---------------------------------
+
+# Currency support
 this discord bot currently support:
 - VND
 - USD
 
-#Cryptocurrency support
+-----------------------------------
+
+# Cryptocurrency support
 this discord bot currently support:
 - BTC
 - ETH
